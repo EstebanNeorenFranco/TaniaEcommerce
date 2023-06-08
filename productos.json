@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Green Morra",
+            "price": 7500,
+            "image": "/pantalon_negro.jpg",
+            "category": "pantalon"
+        },
+        {
+            "id": 2,
+            "title": "Top Foil",
+            "price": 4500,
+            "image": "/pantalon_azul.jpg",
+            "category": "top"
+        },
+        {
+            "id": 3,
+            "title": "Sweater Cebra",
+            "price": 2000,
+            "image": "/swater_zebra.jpg",
+            "category": "sweater"
+        }
+    ]
+}
